@@ -1,3 +1,5 @@
-# My Awesome Book
+# Building a 3D Printer
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This book is my attempt at experimenting with several things at once: 3D Printing, hacking, writing an eBook using gitbook, learning Git, and whatever else. 
+
+
